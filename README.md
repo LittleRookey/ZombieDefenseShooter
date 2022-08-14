@@ -9,15 +9,15 @@
 - Placed Objects(Scriptable Object that can be placed on grid) [https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/ScriptableObject/PlacedObjects.cs](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/ScriptableObject/PlacedObjects.cs)
 ![Lane on fire when wave starts](Images/firelane.png)
 
-
 ![My Contribution](Images/contribution.png)
 
 
-## Youtube link
+## Youtube link(Code walkthrough)
 https://www.youtube.com/watch?v=4iNlGqzPhMs&t=183s
 
 
 #### Contributors
+HyunJoon Kim
 Jason Vu
 Spencer Mullen
 Yuyang Wei 
