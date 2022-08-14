@@ -13,6 +13,7 @@
 - Placed Objects(Scriptable Object that can be placed on grid) 
 [code link](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/ScriptableObject/PlacedObjects.cs)
 
+- My Contribution
 
 ![My Contribution](Images/contribution.png)
 
@@ -27,13 +28,16 @@ https://www.youtube.com/watch?v=4iNlGqzPhMs&t=183s
 
 
 
-#### Contributors
+## Contributors
 HyunJoon Kim
+
 Jason Vu
+
 Spencer Mullen
+
 Yuyang Wei 
 
 
-#### Reference
+## Reference
 CodeMonkey's grid building system tutorial
 
