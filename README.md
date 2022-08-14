@@ -13,7 +13,7 @@
 - Placed Objects(Scriptable Object that can be placed on grid) 
 [code link](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/ScriptableObject/PlacedObjects.cs)
 
-- My Contribution
+## My Contribution to this project
 
 ![My Contribution](Images/contribution.png)
 
