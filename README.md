@@ -2,16 +2,16 @@
 3D Zombine defense shooting game where you’re a scientist that worked for the United States military, who has created a cryogenic sleep capsule. You wanted to have safety from the upcoming nuclear warfare, so you went into your capsule. However, during your sleep, radiation has engulfed the planet, so the plants and animals began to mutate. There are the same animals and plants that you know of but with a twist–some have grown extra limbs, gained increased size, and have a new distinct feature about them. 
 
 ### What I made in this game?
-- Grid: 
+- Grid: [Grid.cs](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/Grid.cs) 
 ![grid](Images/grid.png)
-[code link](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/Grid.cs)
 
-- Grid Building system 
+
+- Grid Building system: [GridBuildingSystem.cs](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/GridBuildingSystem.cs) 
 ![gridBuildingSystem](Images/gridbuilding.png)
-[code link](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/GridBuildingSystem.cs)
 
-- Placed Objects(Scriptable Object that can be placed on grid) 
-[code link](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/ScriptableObject/PlacedObjects.cs)
+
+- Placed Objects(Scriptable Object): [PlacedObjects.cs](https://github.com/LittleRookey/ZombieDefenseShooter/blob/main/Unity%20Project/Assets/LittleRookey/Grid/ScriptableObject/PlacedObjects.cs)
+
 
 ## My Contribution to this project
 
